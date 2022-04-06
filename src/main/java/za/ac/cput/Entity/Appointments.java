@@ -1,4 +1,4 @@
-package za.ac.cput.Repository;
+package za.ac.cput.Entity;
 
 public class Appointments {
 }
