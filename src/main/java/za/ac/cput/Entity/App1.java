@@ -1,4 +1,4 @@
 package za.ac.cput.Entity;
 
-public class Laboratory {
+public class App1 {
 }

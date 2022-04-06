@@ -1,4 +1,4 @@
 package za.ac.cput.Repository;
 
-public class Appointments {
+public class App1 {
 }

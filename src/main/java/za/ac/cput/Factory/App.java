@@ -6,7 +6,9 @@ package za.ac.cput.Factory;
  * Group 23: group lead
  *
  */
-public class Laboratory {
+
+public class App {
+
 
 
 }
