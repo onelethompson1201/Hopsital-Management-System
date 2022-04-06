@@ -6,4 +6,4 @@
 
 -----
 
-![](uml/Hospital-Management-System.jpeg)
+![](uml/Hospital-Management-System-UML-Diagram.jpeg)
